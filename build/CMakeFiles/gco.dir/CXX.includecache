@@ -6,13 +6,13 @@
 
 #IncludeRegexTransform: 
 
-/Users/Raphael/GitProjects/cpp/gco-v3.0-master/GCoptimization.cpp
+/home/adminlocal/PhD/cpp/gco-v3.0/GCoptimization.cpp
 mex.h
 -
 GCoptimization.h
-/Users/Raphael/GitProjects/cpp/gco-v3.0-master/GCoptimization.h
+/home/adminlocal/PhD/cpp/gco-v3.0/GCoptimization.h
 LinkedBlockList.h
-/Users/Raphael/GitProjects/cpp/gco-v3.0-master/LinkedBlockList.h
+/home/adminlocal/PhD/cpp/gco-v3.0/LinkedBlockList.h
 stdio.h
 -
 stdlib.h
@@ -24,53 +24,45 @@ algorithm
 windows.h
 -
 
-/Users/Raphael/GitProjects/cpp/gco-v3.0-master/GCoptimization.h
+/home/adminlocal/PhD/cpp/gco-v3.0/GCoptimization.h
 cstddef
 -
 energy.h
-/Users/Raphael/GitProjects/cpp/gco-v3.0-master/energy.h
+/home/adminlocal/PhD/cpp/gco-v3.0/energy.h
 graph.inl
-/Users/Raphael/GitProjects/cpp/gco-v3.0-master/graph.inl
+/home/adminlocal/PhD/cpp/gco-v3.0/graph.inl
 maxflow.inl
-/Users/Raphael/GitProjects/cpp/gco-v3.0-master/maxflow.inl
+/home/adminlocal/PhD/cpp/gco-v3.0/maxflow.inl
 ctime
 -
 
-/Users/Raphael/GitProjects/cpp/gco-v3.0-master/LinkedBlockList.cpp
-LinkedBlockList.h
-/Users/Raphael/GitProjects/cpp/gco-v3.0-master/LinkedBlockList.h
-stdio.h
--
-stdlib.h
--
+/home/adminlocal/PhD/cpp/gco-v3.0/LinkedBlockList.h
 
-/Users/Raphael/GitProjects/cpp/gco-v3.0-master/LinkedBlockList.h
-
-/Users/Raphael/GitProjects/cpp/gco-v3.0-master/block.h
+/home/adminlocal/PhD/cpp/gco-v3.0/block.h
 block.h
-/Users/Raphael/GitProjects/cpp/gco-v3.0-master/block.h
+/home/adminlocal/PhD/cpp/gco-v3.0/block.h
 stdlib.h
 -
 
-/Users/Raphael/GitProjects/cpp/gco-v3.0-master/energy.h
+/home/adminlocal/PhD/cpp/gco-v3.0/energy.h
 stdio.h
 -
 energy.h
-/Users/Raphael/GitProjects/cpp/gco-v3.0-master/energy.h
+/home/adminlocal/PhD/cpp/gco-v3.0/energy.h
 assert.h
 -
 graph.h
-/Users/Raphael/GitProjects/cpp/gco-v3.0-master/graph.h
+/home/adminlocal/PhD/cpp/gco-v3.0/graph.h
 
-/Users/Raphael/GitProjects/cpp/gco-v3.0-master/graph.h
+/home/adminlocal/PhD/cpp/gco-v3.0/graph.h
 string.h
 -
 block.h
-/Users/Raphael/GitProjects/cpp/gco-v3.0-master/block.h
+/home/adminlocal/PhD/cpp/gco-v3.0/block.h
 assert.h
 -
 
-/Users/Raphael/GitProjects/cpp/gco-v3.0-master/graph.inl
+/home/adminlocal/PhD/cpp/gco-v3.0/graph.inl
 stdio.h
 -
 stdlib.h
@@ -78,11 +70,11 @@ stdlib.h
 string.h
 -
 graph.h
-/Users/Raphael/GitProjects/cpp/gco-v3.0-master/graph.h
+/home/adminlocal/PhD/cpp/gco-v3.0/graph.h
 
-/Users/Raphael/GitProjects/cpp/gco-v3.0-master/maxflow.inl
+/home/adminlocal/PhD/cpp/gco-v3.0/maxflow.inl
 stdio.h
 -
 graph.h
-/Users/Raphael/GitProjects/cpp/gco-v3.0-master/graph.h
+/home/adminlocal/PhD/cpp/gco-v3.0/graph.h
 

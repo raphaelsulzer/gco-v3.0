@@ -1,8 +1,8 @@
 /usr/local/lib/libgco.a
-/usr/local/include/gco-v3.0-master/GCoptimization.h
-/usr/local/include/gco-v3.0-master/graph.h
-/usr/local/include/gco-v3.0-master/block.h
-/usr/local/include/gco-v3.0-master/energy.h
-/usr/local/include/gco-v3.0-master/maxflow.inl
-/usr/local/include/gco-v3.0-master/LinkedBlockList.h
-/usr/local/include/gco-v3.0-master/graph.inl
+/usr/local/include/gco-v3.0/maxflow.inl
+/usr/local/include/gco-v3.0/block.h
+/usr/local/include/gco-v3.0/GCoptimization.h
+/usr/local/include/gco-v3.0/LinkedBlockList.h
+/usr/local/include/gco-v3.0/graph.h
+/usr/local/include/gco-v3.0/energy.h
+/usr/local/include/gco-v3.0/graph.inl

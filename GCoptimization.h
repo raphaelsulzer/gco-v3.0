@@ -163,11 +163,11 @@ public:
 	typedef GCO_ENERGYTERMTYPE EnergyTermType;
 #else
 #ifdef GCO_ENERGYTYPE32
-	typedef float EnergyType;        // 32-bit energy total
+    typedef double EnergyType;        // 32-bit energy total
 #else
-	typedef float EnergyType;  		// 64-bit energy total
+    typedef double EnergyType;  		// 64-bit energy total
 #endif
-	typedef float EnergyTermType;    // 32-bit energy terms
+    typedef double EnergyTermType;    // 32-bit energy terms
 #endif
 	typedef Energy<EnergyTermType,EnergyTermType,EnergyType> EnergyT;
 	typedef EnergyT::Var VarID;

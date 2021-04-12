@@ -1,8 +1,8 @@
 file(REMOVE_RECURSE
   "CMakeFiles/gco.dir/GCoptimization.cpp.o"
   "CMakeFiles/gco.dir/LinkedBlockList.cpp.o"
-  "libgco.pdb"
   "libgco.a"
+  "libgco.pdb"
 )
 
 # Per-language clean rules from dependency scanning.
